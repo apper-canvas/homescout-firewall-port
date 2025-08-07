@@ -1,0 +1,377 @@
+[
+  {
+    "Id": 1,
+    "title": "Modern Downtown Loft with City Views",
+    "price": 850000,
+    "type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1200,
+    "address": {
+      "street": "123 Main Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94102"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning modern loft in the heart of downtown featuring floor-to-ceiling windows, hardwood floors, and an open-concept design. This contemporary space offers breathtaking city views and premium finishes throughout. The gourmet kitchen boasts stainless steel appliances and quartz countertops, perfect for entertaining.",
+    "amenities": [
+      "Hardwood Floors",
+      "Stainless Steel Appliances",
+      "In-Unit Laundry",
+      "Balcony",
+      "Garage Parking",
+      "Gym Access",
+      "Rooftop Deck"
+    ],
+    "listingDate": "2024-01-15T00:00:00Z",
+    "isFavorited": false
+  },
+  {
+    "Id": 2,
+    "title": "Charming Victorian House with Garden",
+    "price": 1250000,
+    "type": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2400,
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94115"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&h=600&fit=crop"
+    ],
+    "description": "Beautifully preserved Victorian home with original architectural details and modern updates. Features include restored hardwood floors, period moldings, and a spacious eat-in kitchen. The private garden provides a peaceful retreat in the city.",
+    "amenities": [
+      "Original Hardwood",
+      "Period Details",
+      "Updated Kitchen",
+      "Private Garden",
+      "Fireplace",
+      "Walk-in Closets",
+      "Storage Basement"
+    ],
+    "listingDate": "2024-01-12T00:00:00Z",
+    "isFavorited": true
+  },
+  {
+    "Id": 3,
+    "title": "Luxury Penthouse with Panoramic Views",
+    "price": 2750000,
+    "type": "Condo",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 1800,
+    "address": {
+      "street": "789 Pacific Heights",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94109"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752734-e8db93b28b15?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop"
+    ],
+    "description": "Exceptional penthouse offering 360-degree views of the city and bay. This luxury residence features premium finishes, a chef's kitchen with top-of-the-line appliances, and multiple outdoor terraces. Building amenities include concierge service and valet parking.",
+    "amenities": [
+      "Panoramic Views",
+      "Chef's Kitchen",
+      "Multiple Terraces",
+      "Concierge Service",
+      "Valet Parking",
+      "Wine Storage",
+      "Private Elevator"
+    ],
+    "listingDate": "2024-01-10T00:00:00Z",
+    "isFavorited": false
+  },
+  {
+    "Id": 4,
+    "title": "Cozy Studio in Historic Building",
+    "price": 395000,
+    "type": "Apartment",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFeet": 650,
+    "address": {
+      "street": "321 Mission Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94103"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=800&h=600&fit=crop"
+    ],
+    "description": "Charming studio apartment in a beautifully restored historic building. Features high ceilings, exposed brick walls, and modern amenities. Perfect for first-time buyers or investors. Walking distance to cafes, restaurants, and public transportation.",
+    "amenities": [
+      "High Ceilings",
+      "Exposed Brick",
+      "Modern Kitchen",
+      "Laundry Facility",
+      "Bike Storage",
+      "Pet Friendly"
+    ],
+    "listingDate": "2024-01-08T00:00:00Z",
+    "isFavorited": true
+  },
+  {
+    "Id": 5,
+    "title": "Modern Townhouse with Roof Deck",
+    "price": 1850000,
+    "type": "Townhouse",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "squareFeet": 1950,
+    "address": {
+      "street": "555 Hayes Valley",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94102"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+    ],
+    "description": "Contemporary townhouse in trendy Hayes Valley featuring clean lines, abundant natural light, and premium finishes. The open floor plan is perfect for entertaining, while the roof deck offers stunning city views. Attached garage and private entrance.",
+    "amenities": [
+      "Open Floor Plan",
+      "Roof Deck",
+      "Attached Garage",
+      "Premium Finishes",
+      "Smart Home Tech",
+      "Energy Efficient"
+    ],
+    "listingDate": "2024-01-05T00:00:00Z",
+    "isFavorited": false
+  },
+  {
+    "Id": 6,
+    "title": "Spacious Family Home with Backyard",
+    "price": 1650000,
+    "type": "House",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2800,
+    "address": {
+      "street": "888 Sunset Boulevard",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90028"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&h=600&fit=crop"
+    ],
+    "description": "Perfect family home in a quiet neighborhood with excellent schools. Features include a gourmet kitchen, formal dining room, and a large backyard ideal for children and entertaining. Updated throughout with modern amenities while maintaining classic charm.",
+    "amenities": [
+      "Large Backyard",
+      "Gourmet Kitchen",
+      "Formal Dining",
+      "Master Suite",
+      "Two-Car Garage",
+      "Near Schools"
+    ],
+    "listingDate": "2024-01-03T00:00:00Z",
+    "isFavorited": false
+  },
+  {
+    "Id": 7,
+    "title": "Waterfront Condo with Marina Views",
+    "price": 975000,
+    "type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1400,
+    "address": {
+      "street": "200 Harbor Drive",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98101"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752734-e8db93b28b15?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning waterfront condominium with unobstructed marina and mountain views. This elegant home features floor-to-ceiling windows, a private balcony, and high-end finishes throughout. Building amenities include a fitness center and concierge services.",
+    "amenities": [
+      "Marina Views",
+      "Private Balcony",
+      "Floor-to-Ceiling Windows",
+      "Fitness Center",
+      "Concierge",
+      "Secure Parking"
+    ],
+    "listingDate": "2024-01-01T00:00:00Z",
+    "isFavorited": true
+  },
+  {
+    "Id": 8,
+    "title": "Historic Brownstone with Modern Updates",
+    "price": 2200000,
+    "type": "House",
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "squareFeet": 3200,
+    "address": {
+      "street": "42 Commonwealth Avenue",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97205"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=800&h=600&fit=crop"
+    ],
+    "description": "Magnificent historic brownstone completely renovated with luxury amenities and modern conveniences. Original architectural details have been preserved while adding contemporary comfort. Features a wine cellar, home office, and beautifully landscaped garden.",
+    "amenities": [
+      "Historic Details",
+      "Wine Cellar",
+      "Home Office",
+      "Landscaped Garden",
+      "Updated Systems",
+      "Original Moldings"
+    ],
+    "listingDate": "2023-12-28T00:00:00Z",
+    "isFavorited": false
+  },
+  {
+    "Id": 9,
+    "title": "Contemporary Mountain View Home",
+    "price": 1450000,
+    "type": "House",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 2100,
+    "address": {
+      "street": "1500 Alpine Ridge",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80202"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop"
+    ],
+    "description": "Stunning contemporary home with breathtaking mountain views from every room. Features include soaring ceilings, a stone fireplace, and expansive windows that frame the natural beauty. The gourmet kitchen opens to a deck perfect for outdoor dining.",
+    "amenities": [
+      "Mountain Views",
+      "Stone Fireplace",
+      "Soaring Ceilings",
+      "Outdoor Deck",
+      "Gourmet Kitchen",
+      "Walk-in Closets"
+    ],
+    "listingDate": "2023-12-25T00:00:00Z",
+    "isFavorited": false
+  },
+  {
+    "Id": 10,
+    "title": "Urban Loft with Artistic Flair",
+    "price": 725000,
+    "type": "Condo",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "squareFeet": 950,
+    "address": {
+      "street": "300 Art District",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78701"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?w=800&h=600&fit=crop"
+    ],
+    "description": "Unique artist loft in the vibrant arts district featuring exposed brick, concrete floors, and industrial fixtures. The space includes a separate studio area perfect for creative work. Walking distance to galleries, music venues, and trendy restaurants.",
+    "amenities": [
+      "Exposed Brick",
+      "Concrete Floors",
+      "Studio Space",
+      "Industrial Design",
+      "Arts District",
+      "High Ceilings"
+    ],
+    "listingDate": "2023-12-20T00:00:00Z",
+    "isFavorited": true
+  },
+  {
+    "Id": 11,
+    "title": "Elegant Craftsman Bungalow",
+    "price": 890000,
+    "type": "House",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 1650,
+    "address": {
+      "street": "678 Craftsman Lane",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97210"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?w=800&h=600&fit=crop"
+    ],
+    "description": "Beautifully maintained Craftsman bungalow with original built-ins, hardwood floors, and period fixtures. The home features a covered front porch, formal dining room, and a cozy breakfast nook. Large lot with mature trees and garden space.",
+    "amenities": [
+      "Original Built-ins",
+      "Covered Porch",
+      "Hardwood Floors",
+      "Formal Dining",
+      "Large Lot",
+      "Mature Trees"
+    ],
+    "listingDate": "2023-12-15T00:00:00Z",
+    "isFavorited": false
+  },
+  {
+    "Id": 12,
+    "title": "Luxury High-Rise with City Lights",
+    "price": 1950000,
+    "type": "Condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1350,
+    "address": {
+      "street": "1000 Sky Tower",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98104"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600566752734-e8db93b28b15?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&h=600&fit=crop"
+    ],
+    "description": "Exceptional luxury condominium on the 45th floor offering spectacular city and water views. This sophisticated residence features premium finishes, a gourmet kitchen, and floor-to-ceiling windows. World-class amenities include spa, pool, and 24/7 concierge.",
+    "amenities": [
+      "45th Floor Views",
+      "Premium Finishes",
+      "Gourmet Kitchen",
+      "Spa Access",
+      "Pool",
+      "24/7 Concierge"
+    ],
+    "listingDate": "2023-12-10T00:00:00Z",
+    "isFavorited": false
+  }
+]
