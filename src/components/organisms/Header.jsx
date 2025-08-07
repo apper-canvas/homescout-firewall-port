@@ -26,11 +26,10 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
             <div className="bg-gradient-to-r from-primary-600 to-primary-700 p-2 rounded-lg">
-              <ApperIcon name="Home" size={24} className="text-white" />
+<ApperIcon name="Home" size={24} className="text-white" />
             </div>
-            <span className="text-2xl font-bold text-gradient">HomeScout</span>
+            <span className="text-2xl font-bold text-gradient">homescout pro 1</span>
           </Link>
-
           {/* Desktop Search */}
           <div className="hidden md:block flex-1 max-w-md mx-8">
             <SearchBar onSearch={handleSearch} />
