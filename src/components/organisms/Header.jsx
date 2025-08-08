@@ -28,7 +28,7 @@ const Header = () => {
             <div className="bg-gradient-to-r from-primary-600 to-primary-700 p-2 rounded-lg">
 <ApperIcon name="Home" size={24} className="text-white" />
             </div>
-<span className="text-2xl font-bold text-gradient">homescout pro 5</span>
+<span className="text-2xl font-bold text-gradient">homescout pro 6</span>
           </Link>
           {/* Desktop Search */}
           <div className="hidden md:block flex-1 max-w-md mx-8">
