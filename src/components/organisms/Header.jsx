@@ -24,11 +24,11 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link to="/" className="flex items-center space-x-2">
+<Link to="/" className="flex items-center space-x-2">
             <div className="bg-gradient-to-r from-primary-600 to-primary-700 p-2 rounded-lg">
 <ApperIcon name="Home" size={24} className="text-white" />
             </div>
-<span className="text-2xl font-bold text-gradient">homescout pro 2</span>
+<span className="text-2xl font-bold text-gradient">homescout pro 3</span>
           </Link>
           {/* Desktop Search */}
           <div className="hidden md:block flex-1 max-w-md mx-8">
